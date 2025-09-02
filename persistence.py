@@ -83,3 +83,35 @@ if __name__ == "__main__":
             print("👋 Goodbye!")
             break
         run_chatbot(user_input)
+
+
+
+
+# ---------------------- output -------------------
+
+# 💬 Chatbot is ready! Type 'exit' to quit.
+
+# 🧑 You: Hello
+# 🤖: Hi there! How are you?
+
+# 📜 Full conversation so far:
+# 🧑: Hello
+# 🤖: Hi there! How are you?
+# ----------------------------------------
+
+
+# 🧑 You: I’m doing well, what about you?
+# 🤖: I’m glad to hear that! I’m doing great and ready to chat with you.
+
+# 📜 Full conversation so far:
+# 🧑: Hello
+# 🤖: Hi there! How are you?
+# 🧑: I’m doing well, what about you?
+# 🤖: I’m glad to hear that! I’m doing great and ready to chat with you.
+# ----------------------------------------
+
+
+
+# 🧑 You: exit
+# 👋 Goodbye!
+
